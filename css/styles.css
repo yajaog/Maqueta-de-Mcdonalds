@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+.caja1, .caja2 {
+    background: white;
+    border: 2px black solid; 
+}
+
+.caja2:hover {
+    background: red;
+}
+
+.caja1:hover {
+    background: rgb(230, 182, 50);
+}
+
+.logooo{
+    width: 100%;
+}
+
+.boton{ 
+    background: goldenrod;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+.primeraimagen {
+
+    width: 100%;
+}
+
+.cajabody2 {
+
+    margin-top: 30px;
+}
+
+
+.segunda {
+    width: 100%;
+
+}
+
+.tercera {
+    width: 100%;
+}
